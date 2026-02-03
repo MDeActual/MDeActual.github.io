@@ -1,4 +1,4 @@
-# QC-Law25---Soverign-App
+# QC-Law25---Sovereign-App
 Gemini v1.0 - App for Compliance-as-a-Service
 
 ## Site Overview
